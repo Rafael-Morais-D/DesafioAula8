@@ -1,0 +1,15 @@
+D:\VS Projetos\DesafioAula8\bin\Debug\net6.0\DesafioAula8.exe
+D:\VS Projetos\DesafioAula8\bin\Debug\net6.0\DesafioAula8.deps.json
+D:\VS Projetos\DesafioAula8\bin\Debug\net6.0\DesafioAula8.runtimeconfig.json
+D:\VS Projetos\DesafioAula8\bin\Debug\net6.0\DesafioAula8.dll
+D:\VS Projetos\DesafioAula8\bin\Debug\net6.0\DesafioAula8.pdb
+D:\VS Projetos\DesafioAula8\obj\Debug\net6.0\DesafioAula8.csproj.AssemblyReference.cache
+D:\VS Projetos\DesafioAula8\obj\Debug\net6.0\DesafioAula8.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projetos\DesafioAula8\obj\Debug\net6.0\DesafioAula8.AssemblyInfoInputs.cache
+D:\VS Projetos\DesafioAula8\obj\Debug\net6.0\DesafioAula8.AssemblyInfo.cs
+D:\VS Projetos\DesafioAula8\obj\Debug\net6.0\DesafioAula8.csproj.CoreCompileInputs.cache
+D:\VS Projetos\DesafioAula8\obj\Debug\net6.0\DesafioAula8.dll
+D:\VS Projetos\DesafioAula8\obj\Debug\net6.0\refint\DesafioAula8.dll
+D:\VS Projetos\DesafioAula8\obj\Debug\net6.0\DesafioAula8.pdb
+D:\VS Projetos\DesafioAula8\obj\Debug\net6.0\DesafioAula8.genruntimeconfig.cache
+D:\VS Projetos\DesafioAula8\obj\Debug\net6.0\ref\DesafioAula8.dll
